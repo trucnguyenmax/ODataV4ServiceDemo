@@ -1,0 +1,15 @@
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\ODataV4ServiceAPI3.Tests.dll
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\ODataV4ServiceAPI3.Tests.pdb
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\obj\Debug\ODataV4ServiceAPI3.Tests.csprojAssemblyReference.cache
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\obj\Debug\ODataV4ServiceAPI3.Tests.csproj.CoreCompileInputs.cache
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\obj\Debug\ODataV4ServiceAPI3.Tests.csproj.CopyComplete
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\obj\Debug\ODataV4ServiceAPI3.Tests.dll
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\obj\Debug\ODataV4ServiceAPI3.Tests.pdb
+E:\Work\Source\Demo\ODataV4ServiceDemo\ODataV4ServiceAPI3.Tests\bin\Debug\ODataV4ServiceAPI3.Tests.dll.config

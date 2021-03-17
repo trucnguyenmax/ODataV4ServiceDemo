@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataV4ServiceAPI3.Tests", "ODataV4ServiceAPI3.Tests\ODataV4ServiceAPI3.Tests.csproj", "{D6CCEC8B-62B9-4D47-95AC-6F43CD813520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataV4ServiceAPI4", "ODataV4ServiceAPI4\ODataV4ServiceAPI4.csproj", "{C5B6CA0B-C70D-4DCE-9EED-62A3718CF1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CCEC8B-62B9-4D47-95AC-6F43CD813520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CCEC8B-62B9-4D47-95AC-6F43CD813520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CCEC8B-62B9-4D47-95AC-6F43CD813520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CCEC8B-62B9-4D47-95AC-6F43CD813520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B6CA0B-C70D-4DCE-9EED-62A3718CF1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B6CA0B-C70D-4DCE-9EED-62A3718CF1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B6CA0B-C70D-4DCE-9EED-62A3718CF1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B6CA0B-C70D-4DCE-9EED-62A3718CF1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97AC4322-3058-45BC-9E1A-D7A01D18F40F}
+	EndGlobalSection
+EndGlobal
