@@ -39,22 +39,26 @@ namespace ODataV4ServiceAPI4.DataSource
                 new Order()
                 {
                     ID = 1,
-                    Name = "Order 0"
+                    Name = "Order 0",
+                    Price = 1
                 },
                 new Order()
                 {
                     ID = 2,
-                    Name = "Order 1"
+                    Name = "Order 1",
+                    Price = 2
                 },
                 new Order()
                 {
                     ID = 3,
-                    Name = "Order 2"
+                    Name = "Order 2",
+                    Price = 200
                 },
                 new Order()
                 {
                     ID = 4,
-                    Name = "Order 3"
+                    Name = "Order 3",
+                    Price = 900
                 }
             });
             Customers.AddRange(new List<Customer>
