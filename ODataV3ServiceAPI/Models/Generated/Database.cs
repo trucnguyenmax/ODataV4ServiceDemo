@@ -241,6 +241,36 @@ namespace ODataServiceDemo
 
     
 
+	[TableName("dbo.Categories")]
+
+
+
+	[PrimaryKey("ID")]
+
+
+
+
+	[ExplicitColumns]
+
+    public partial class Category : ODataRepo.Record<Category>  
+    {
+
+
+
+		[Column] public int ID { get; set; }
+
+
+
+
+
+		[Column] public string Name { get; set; }
+
+
+
+	}
+
+    
+
 	[TableName("dbo.sysdiagrams")]
 
 
