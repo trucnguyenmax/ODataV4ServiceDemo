@@ -60,7 +60,6 @@ E:\Work\Source\Demo\ODataV4ServiceDemo.git\ODataV3ServiceAPI\bin\System.Net.Http
 E:\Work\Source\Demo\ODataV4ServiceDemo.git\ODataV3ServiceAPI\bin\System.Web.Http.xml
 E:\Work\Source\Demo\ODataV4ServiceDemo.git\ODataV3ServiceAPI\bin\System.Web.Http.WebHost.xml
 E:\Work\Source\Demo\ODataV4ServiceDemo.git\ODataV3ServiceAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\Work\Source\Demo\ODataV4ServiceDemo.git\ODataV3ServiceAPI\obj\Debug\ODataV3ServiceAPI.csprojAssemblyReference.cache
 E:\Work\Source\Demo\ODataV4ServiceDemo.git\ODataV3ServiceAPI\obj\Debug\ODataV3ServiceAPI.csproj.CoreCompileInputs.cache
 E:\Work\Source\Demo\ODataV4ServiceDemo.git\ODataV3ServiceAPI\obj\Debug\ODataV3ServiceAPI.csproj.CopyComplete
 E:\Work\Source\Demo\ODataV4ServiceDemo.git\ODataV3ServiceAPI\obj\Debug\ODataV3ServiceAPI.dll

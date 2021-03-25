@@ -1,9 +1,9 @@
 <#@ include file="PetaPoco.Core.ttinclude" #>
 <#
 	// Settings
-    ConnectionStringName = "";			// Uses last connection string in config if not specified
-    Namespace = "";
-    RepoName = "";
+    ConnectionStringName = "connectionStr";			// Uses last connection string in config if not specified
+    Namespace = "ODataServiceDemo";
+    RepoName = "ODataRepo";
     GenerateOperations = true;
 	GeneratePocos = true;
 	GenerateCommon = true;
